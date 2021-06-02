@@ -31,6 +31,6 @@ float wallis_pi(int n)
     {
         s=s*(4*i*i)/((4*i*i)-1);
     }
-   return (2*s);
+   return (2*s); 
  }
 
